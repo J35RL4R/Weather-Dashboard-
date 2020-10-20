@@ -90,7 +90,7 @@ function initPage() {
 
     function renderSearchHistory() {
         history.innerHTML = "";
-        for (let i=0; i<searchHistory.length; i++) {
+        for (let i=0; i < searchHistory.length; i++) {
             const historyItem = document.createElement("input");
             historyItem.setAttribute("type","text");
             historyItem.setAttribute("readonly",true);
