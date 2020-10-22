@@ -13,12 +13,11 @@ A navbar
 A responsive layout
 
 Link to the deployed website
-https://j35rl4r.github.io/Weather-Dashboard-/
-
+https://j35rl4r.github.io/responsive.portfolio.second.edition/index.html
 
 
 Credits
-© Jesse Larsen
+© Jesse R. Larsen
 
 Copyright <2020> <Jesse R. Larsen>
 
