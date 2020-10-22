@@ -13,7 +13,7 @@ A navbar
 A responsive layout
 
 Link to the deployed website
-https://j35rl4r.github.io/responsive.portfolio.second.edition/index.html
+https://j35rl4r.github.io/Weather-Dashboard-/
 
 
 Credits
